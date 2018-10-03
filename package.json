@@ -20,7 +20,6 @@
     "yargs": "12.0.2"
   },
   "bin": {
-    "janux-rollback": "rollback.js",
-    "janux-deploy": "rollback.js"
+    "janux-rollback": "rollback.js"
   }
 }
